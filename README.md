@@ -1,11 +1,5 @@
-👋 Hi, I'm Joel Kwihangana, a graduate of Information Technology from the University of Rwanda College of Science and Technology (CST).
+I am a highly motivated, conscientious, and collaborative professional with in-depth knowledge and expertise in the tech industry. With a proven track record of achievements, I bring positivity, a supportive attitude, and a creative mindset to any team environment. I think critically and creatively to find effective solutions to technical challenges.
 
-🎓 Before attending CST, I completed my high school studies in computer science.
+I take pride in tackling challenging problems with a results-oriented approach, maintaining high standards, and contributing significantly to achieving organizational objectives. My commitment to continuous professional development ensures I stay aligned with evolving industry trends, enabling me to deliver innovative solutions and exceptional customer experiences.
 
-💻 My passion lies in software development, and I'm particularly interested in full-stack web development using modern technologies and frameworks.
-
-🌱 I'm always learning and exploring new technologies to stay up-to-date with the latest trends and advancements in the field.
-
-🤝 If you're interested in collaborating on a software development project, feel free to reach out to me at joelkwijoe@gmail.com or akaijoe4@gmail.com.
-
-
+With over five years of experience in similar roles, I consistently demonstrate reliability and a drive to exceed expectations. I am passionate about identifying opportunities for growth and efficiency, helping my employer and team achieve specific goals while optimizing resources and reducing costs.
