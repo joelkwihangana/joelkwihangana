@@ -1,5 +1,11 @@
-I am a highly motivated, conscientious, and collaborative professional with in-depth knowledge and expertise in the tech industry. With a proven track record of achievements, I bring positivity, a supportive attitude, and a creative mindset to any team environment. I think critically and creatively to find effective solutions to technical challenges.
+I am a Technical Support Engineer with a strong foundation in Software Engineering and a growing focus on DevOps practices. I bring deep expertise in Cloud Infrastructure, Endpoint Security, AI integration, and IT Systems Administration, with a passion for automation and scalable solutions.
 
-I take pride in tackling challenging problems with a results-oriented approach, maintaining high standards, and contributing significantly to achieving organizational objectives. My commitment to continuous professional development ensures I stay aligned with evolving industry trends, enabling me to deliver innovative solutions and exceptional customer experiences.
+I specialize in resolving complex issues across enterprise environments while automating repetitive tasks using Python and Bash to drive efficiency and scale.
 
-With over five years of experience in similar roles, I consistently demonstrate reliability and a drive to exceed expectations. I am passionate about identifying opportunities for growth and efficiency, helping my employer and team achieve specific goals while optimizing resources and reducing costs.
+Proven track record supporting platforms like Symantec CloudSOC/CASB and VMware Carbon Black EDR, with a strong focus on root cause analysis, system optimization, and cross-functional collaboration.
+
+Currently advancing my skills in DevOps, CI/CD, and Infrastructure as Code using Terraform, Docker, Kubernetes, and Jenkins. 
+
+I follow the Pareto Principle—automating the 20% of tasks that create 80% of the workload—to deliver smarter, faster, and more secure operations.
+
+I am an engineer who transforms challenges and rejection into growth opportunities, constantly evolving to deliver reliable, scalable solutions in dynamic environments.
