@@ -10,4 +10,5 @@ Passionate about open source technologies and advancing expertise in cloud infra
 
 
 "The best time to build a parachute isn’t after you’ve jumped—it’s before you even climb." – Ike Affam
+
 "Excellence happens not by accident. It is a process." – Dr. A.P.J. Abdul Kalam
