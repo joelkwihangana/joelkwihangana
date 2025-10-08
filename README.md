@@ -1,10 +1,7 @@
 < HelloWorld />
 
-Technical Application Engineer with a DevOps Culture where coding, automation, and precision meet purpose.
-Experienced in Red Hat, Ubuntu, Windows, Kubernetes, and virtualization, I focus on creating reliable and secure environments that support enterprise operations.
+I am a Technical Application Engineer who lives at the intersection of software development, automation, and operations. With a background in application support and enterprise Linux environments, I have developed a deep passion for building systems that are reliable, secure, and beautifully automated.
 
-I view DevOps as the art of uniting people, process, and technology to achieve continuous improvement.
-Passionate about open source, automation, and building systems that work seamlessly and elegantly.
+My experience spans Red Hat, Ubuntu, Kubernetes, and virtualization technologies, where I have helped global customers diagnose and resolve complex infrastructure issues while maintaining high performance and uptime.
 
-“The best time to build a parachute isn’t after you’ve jumped; it’s before you even climb.” – Ike Affam
-“Excellence happens not by accident. It is a process.” – Dr. A.P.J. Abdul Kalam
+I see DevOps not just as a set of tools, but as a philosophy of collaboration, continuous learning, and innovation. My goal is to bridge code and infrastructure to create solutions that evolve, adapt, and perform with precision.
