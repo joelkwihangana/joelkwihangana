@@ -1,6 +1,6 @@
 Hello!
 
-I am Technical Support Engineer with proven success in enterprise Linux and cloud environments, specializing in Ubuntu, Red Hat, Kubernetes, and virtualization technologies. 
+I am Technical Application Engineer with DevOps Culture and proven success in enterprise Linux and cloud environments, specializing in Ubuntu, Red Hat, Kubernetes, and virtualization technologies. 
 
 Experienced in diagnosing and resolving complex system, networking, and storage issues for global customers, consistently meeting SLA commitments and earning recognition for outstanding performance. 
 
