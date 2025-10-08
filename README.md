@@ -1,14 +1,22 @@
 < HelloWorld />
 
-I am Technical Application Engineer with DevOps Culture and proven success in enterprise Linux and cloud environments, specializing in Ubuntu, Red Hat, Kubernetes, and virtualization technologies. 
+about_me:
+  role: Technical Application Engineer with a DevOps soul
+  mindset: "Automate. Collaborate. Evolve."
+  stack: [Red Hat, Ubuntu, Kubernetes, Virtualization]
+  culture: "DevOps is not a job, it’s a way of thinking."
 
-Experienced in diagnosing and resolving complex system, networking, and storage issues for global customers, consistently meeting SLA commitments and earning recognition for outstanding performance. 
+bio: |
+  I thrive where code meets infrastructure.  
+  My journey began with fixing systems, but evolved into building them better—  
+  bridging reliability, automation, and innovation.
 
-Skilled in cloud security platforms, containerization, and automation, with a track record of delivering high customer satisfaction in demanding enterprise support roles. 
+  Experienced in diagnosing and resolving complex system, network, and storage challenges  
+  across enterprise environments, always keeping performance, uptime, and trust at the core.
 
-Passionate about open source technologies and advancing expertise in cloud infrastructure and DevOps.
+  Passionate about open source, cloud infrastructure, and the quiet art of making technology work seamlessly.  
+  For me, DevOps isn’t just about pipelines or tools—it’s about people, process, and purpose.
 
-
-"The best time to build a parachute isn’t after you’ve jumped—it’s before you even climb." – Ike Affam
-
-"Excellence happens not by accident. It is a process." – Dr. A.P.J. Abdul Kalam
+quotes:
+  - "The best time to build a parachute isn’t after you’ve jumped; it’s before you even climb." – Ike Affam
+  - "Excellence happens not by accident. It is a process." – Dr. A.P.J. Abdul Kalam
