@@ -1,6 +1,6 @@
 👋 Hi, I’m Joel Kwihangana
 
-I’m a Technical Support Engineer (L2) with a strong focus on Linux systems, DevOps practices, cloud infrastructure, and automation.
+I’m a Technical Support Engineer (L2) with a strong focus on systems Administration, DevOps practices, cloud infrastructure, and automation.
 
 I build, operate, and document real-world systems, with particular attention to how they work under the hood, why they fail, and how to run them reliably in production. 
 Much of my work is teaching-focused and designed to help engineers understand infrastructure concepts deeply rather than memorize tools.
