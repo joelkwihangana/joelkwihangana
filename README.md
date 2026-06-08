@@ -1,6 +1,6 @@
-Hi, I am Joel Kwihangana
+Hi, 
 
-Technical Support Engineer (L2) and DevOps practitioner. 
+I am Joel Kwihangana. Technical Support Engineer (L2) and DevOps practitioner. 
 
 I troubleshoot enterprise production systems for a living and build my own on the side, so I care about how systems work under the hood, why they fail, and how to run them reliably.
 
