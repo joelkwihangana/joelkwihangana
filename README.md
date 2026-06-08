@@ -1,3 +1,6 @@
-👋 Hi, I’m Joel Kwihangana
-
-Backend engineer who designs, builds, and operates production API services in FastAPI and Node.js, backed by PostgreSQL and MySQL. I build API-first: a clear contract, a deliberate data model, and real error handling come before any UI. I also own what I ship, deploying with Docker and Nginx on Linux VPS infrastructure and supporting it in production. Day to day I work as an L2 Technical Support Engineer on enterprise security platforms, where diagnosing live incidents and proving root cause from evidence is the core of the job. That operations instinct is what makes the systems I design easier to run and harder to break.
+Hi, I am Joel Kwihangana
+Technical Support Engineer (L2) and DevOps practitioner. I troubleshoot enterprise production systems for a living and build my own on the side, so I care about how systems work under the hood, why they fail, and how to run them reliably.
+By day I provide L2 support for enterprise endpoint and cloud security (Carbon Black, Symantec CloudSOC). Outside that, I co-found and engineer at Codacre, where I build and deploy production services with FastAPI, PostgreSQL, Docker, and Nginx on Linux.
+Most of my production work is client systems I keep private. You can see the architecture, the design decisions, and the live results on my portfolio. My public repositories here focus on the learning and infrastructure patterns behind that work.
+Focus areas: Linux administration, automation with Python and Bash, containers and deployment (Docker, Nginx), CI/CD, and incident response.
+Portfolio: https://joelkwihangana-portfolio.netlify.app/
