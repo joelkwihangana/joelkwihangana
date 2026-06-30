@@ -1,6 +1,6 @@
 Hello World, I'm Joel Kwihangana.
 
-Full-stack software engineer. I build and ship production web applications with Python (FastAPI), PostgreSQL, and React/TypeScript, and I run what I deploy with Docker and Nginx mostly on Linux.
+Full-stack Application engineer. I build and ship production web applications with Python (FastAPI), PostgreSQL, and React/TypeScript, and I run what I deploy with Docker and Nginx mostly on Linux.
 
 I work API-first: a clear contract and a deliberate data model come before any UI, and I own what I ship through to production. I build and operate live client products through Codacre, a software agency, including payment-integrated booking and community platforms. Most client code is private, so the architecture, the design decisions, and the live results are on my portfolio.
 
