@@ -1,18 +1,19 @@
-Hi, 
+Hello World, I'm Joel Kwihangana.
 
-I am Joel Kwihangana.Application Engineer (L2) and DevOps practitioner. 
+Full-stack software engineer. I build and ship production web applications with Python (FastAPI), PostgreSQL, and React/TypeScript, and I run what I deploy with Docker and Nginx mostly on Linux.
 
-I troubleshoot enterprise production systems for a living and build my own on the side, so I care about how systems work under the hood, why they fail, and how to run them reliably.
+I work API-first: a clear contract and a deliberate data model come before any UI, and I own what I ship through to production. I build and operate live client products through Codacre, a software agency, including payment-integrated booking and community platforms. Most client code is private, so the architecture, the design decisions, and the live results are on my portfolio.
 
-By day I provide L2 support for enterprise endpoint and cloud security (Carbon Black, Symantec CloudSOC). 
+I also work as an L2 support engineer on enterprise software at TeKnowledge, where proving root cause from logs and system evidence is the core of the job. That operations background is why the systems I build are easier to run and harder to break.
 
-Outside that, I co-found and engineer at Codacre, where I build and deploy production services with FastAPI, PostgreSQL, Docker, and Nginx on Linux.
-Most of my production work is client systems I keep private. 
+What I work with:
 
-You can see the architecture, the design decisions, and the live results on my portfolio. 
+- Backend: Python, FastAPI, REST APIs, Node.js, webhook/IPN and payment integration (mostly Pesapal and Flutterwave)
+- Frontend and UI/UX: React, TypeScript, TailwindCSS, Figma and claude design
+- Data: PostgreSQL, MySQL, Redis and MongoDB
+- Infrastructure: Docker, Nginx, Linux, CI/CD with GitHub Actions, Terraform
+- AI-assisted development with Claude Code, codex,Antigravity&GeminiCLI used daily across the stack
 
-My public repositories here focus on the learning and infrastructure patterns behind that work.
-
-Focus areas: Linux administration, automation with Python and Bash, containers and deployment (Docker, Nginx), CI/CD, and incident response.
+My public repositories here focus on the backend and infrastructure patterns behind that work.
 
 Portfolio: https://joelkwihangana-portfolio.netlify.app/
